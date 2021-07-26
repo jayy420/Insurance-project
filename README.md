@@ -23,9 +23,7 @@ EDA & Preprocessing is done with some Graph plotting to get insides of the datas
 Models like LinearRegression,SupportVectorRegressor,DecisionTree,RandomForest are used to train the Dataset
 
 Hyperparameter Tuning:-
-       GridSearchCV.
-       
-       Boosting.
-       
-       LassoRegression.
+  GridSearchCV.
+   Boosting.
+   LassoRegression.
        
